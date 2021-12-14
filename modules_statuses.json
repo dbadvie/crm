@@ -1,0 +1,12 @@
+{
+    "Dashboard": true,
+    "FileManager": true,
+    "Auth": true,
+    "User": true,
+    "Acl": true,
+    "ModuleManager": true,
+    "Payment": true,
+    "Menu": true,
+    "Notify": true,
+    "FormBuilder": true
+}
